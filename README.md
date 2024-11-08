@@ -56,3 +56,10 @@ This will open the GUI window where you can interact with the file hashing tool.
 ## Pre-compiled Program:
 You can also download the pre-compiled program from the releases section of the GitHub repository:
 ### [RELEASES TAB](https://github.com/1-moxiu/Sum-check_python/releases)
+
+
+## Screenshots of the software.
+
+![Screenshot 1](https://github.com/1-moxiu/Sum-check_python/blob/a3e9a20a1b6f8ee6242f50de660fb531fdee124f/assets_imgs/screenshot-1.png)
+
+![Screenshot 2](https://github.com/1-moxiu/Sum-check_python/blob/a3e9a20a1b6f8ee6242f50de660fb531fdee124f/assets_imgs/screenshot-2.png)
