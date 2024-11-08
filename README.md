@@ -1,5 +1,4 @@
-
-# File Hash Matcher
+# Sum-check_python
 
 A simple Python application to compute and compare file hashes using various algorithms (MD5, SHA-1, SHA-256, SHA-512). The app supports copying computed hashes to the clipboard, exporting them to a file, and comparing the computed hash with a known hash value.
 
@@ -37,14 +36,10 @@ Note: `tkinter` and `hashlib` come pre-installed with Python.
 7. **Export Hash**: Click the **"Export Hash"** button to save the computed hash to a text file.
 
 ### GitHub Link:
-- The application includes a clickable link in the bottom right corner that takes you to **Moxiu's GitHub profile**.
-
-## Example Screenshot:
-
-![App Screenshot](screenshot.png)  *(Add your screenshot of the application here)*
+- The application includes a clickable link in the bottom right corner that takes you to **My GitHub profile**.
 
 ## Author:
-Made by **Moxiu**  
+Made by **Moxiu**(me) 
 On GitHub: [https://github.com/1-moxiu](https://github.com/1-moxiu)
 
 ---
@@ -57,3 +52,7 @@ python file_hash_matcher.py
 ```
 
 This will open the GUI window where you can interact with the file hashing tool.
+
+## Pre-compiled Program:
+You can also download the pre-compiled program from the releases section of the GitHub repository:
+### [RELEASES TAB](https://github.com/1-moxiu/Sum-check_python/releases)
