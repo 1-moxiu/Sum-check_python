@@ -1,5 +1,7 @@
 # Sum-check_python
 
+### ❗️ Sum-check_python IS NOT CHECKSUM CHECKER TO BE CLEAR RATHER HASH CHECKER LIKE FOR Eg. SHA-1, MD5 ,"Sum" is just the name of the program sorry for any confusions.
+
 A simple Python application to compute and compare file hashes using various algorithms (MD5, SHA-1, SHA-256, SHA-512). The app supports copying computed hashes to the clipboard, exporting them to a file, and comparing the computed hash with a known hash value.
 
 ## Features:
